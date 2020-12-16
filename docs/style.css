@@ -1,5 +1,10 @@
+
+@font-face{
+    font-family: "Creepster";
+    src: url("Creepster-Regular.ttf")
+}
 *{
-    font-family: Creepster;
+    font-family: "Creepster";
 }
 .title{
     text-align: center;
